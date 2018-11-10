@@ -1,0 +1,26 @@
+{
+  "name": "paladinjs",
+  "version": "1.0.0",
+  "description": "PaladinJS",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balbini/PaladinJS.git"
+  },
+  "author": "Bryan Albini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balbini/PaladinJS/issues"
+  },
+  "homepage": "https://github.com/balbini/PaladinJS#readme"
+}
